@@ -63,15 +63,14 @@
           - [_maven-plugins_](https://github.com/DisCo-BaTS/build/tree/main/plugins/maven-plugins)
               - [mvn-jaxb-index-builder](https://github.com/DisCo-BaTS/build/tree/main/plugins/maven-plugins/mvn-jaxb-index-builder)
   - [**util**](https://github.com/DisCo-BaTS/util)
+
 - __EXAMPLES__
   - [**models**](https://github.com/DisCo-BaTS/models)
   - [**testunits**](https://github.com/DisCo-BaTS/testunits)
 
-
 - __TOOLS__
   - [**webview**](https://github.com/DisCo-BaTS/webview)
   - [**editor**](https://github.com/DisCo-BaTS/editor)
-
 
 - __ADDITIONAL__
   - [**templates**](https://github.com/DisCo-BaTS/templates)
@@ -90,7 +89,7 @@
 ---
 
 ## Documentation
-For documentation check out the wiki pages and the READMEs located in the individual repositories.
+For documentation check out [the wiki pages](https://github.com/DisCo-BaTS/.github/wiki/DisCo%E2%80%90BaTS-%E2%80%90-Wiki-%E2%80%90-Home) and the READMEs located in the individual repositories.
 > Additionally, once the dissertation in which DisCo-BaTS was developed has been successfully defended and published,
 > the URL to the corresponding publicly available PDF version will be added here.
 
