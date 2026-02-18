@@ -51,32 +51,32 @@
 
 ## Project Structure
 - __CORE__
-  - [**meta**](https://link-url-here.org)
-    - [metamodel](https://link-url-here.org)
-    - [annotation](https://link-url-here.org)
-  - [**application**](https://link-url-here.org)
-    - [core](https://link-url-here.org)
-    - [root](https://link-url-here.org)
-    - [remote](https://link-url-here.org)
-    - [router](https://link-url-here.org)
-  - [**build**](https://link-url-here.org)
-      - [_plugins_](https://link-url-here.org)
-          - [_maven-plugins_](https://link-url-here.org)
-              - [mvn-jaxb-index-builder](https://link-url-here.org)
+  - [**meta**](https://github.com/DisCo-BaTS/meta)
+    - [metamodel](https://github.com/DisCo-BaTS/meta/tree/main/metamodel)
+    - [annotation](https://github.com/DisCo-BaTS/meta/tree/main/annotation)
+  - [**application**](https://github.com/DisCo-BaTS/application)
+    - [core](https://github.com/DisCo-BaTS/application/tree/main/core)
+    - [root](https://github.com/DisCo-BaTS/application/tree/main/root)
+    - [remote](https://github.com/DisCo-BaTS/application/tree/main/remote)
+    - [router](https://github.com/DisCo-BaTS/application/tree/main/router)
+  - [**build**](https://github.com/DisCo-BaTS/build)
+      - [_plugins_](https://github.com/DisCo-BaTS/build/tree/main/plugins)
+          - [_maven-plugins_](https://github.com/DisCo-BaTS/build/tree/main/plugins/maven-plugins)
+              - [mvn-jaxb-index-builder](https://github.com/DisCo-BaTS/build/tree/main/plugins/maven-plugins/mvn-jaxb-index-builder)
 
 - __EXAMPLES__
-  - [**models**](https://link-url-here.org)
-  - [**testunits**](https://link-url-here.org)
+  - [**models**](https://github.com/DisCo-BaTS/models)
+  - [**testunits**](https://github.com/DisCo-BaTS/testunits)
 
 
 - __TOOLS__
-  - [**webview**](https://link-url-here.org)
-  - [**editor**](https://link-url-here.org)
+  - [**webview**](https://github.com/DisCo-BaTS/webview)
+  - [**editor**](https://github.com/DisCo-BaTS/editor)
 
 
 - __ADDITIONAL__
-  - [**templates**](https://link-url-here.org)
-  - [**assets**](https://link-url-here.org) (configs, scenarios, misc)
+  - [**templates**](https://github.com/DisCo-BaTS/templates)
+  - [**assets**](https://github.com/DisCo-BaTS/assets) (configs, scenarios, misc)
 
 
 ---
