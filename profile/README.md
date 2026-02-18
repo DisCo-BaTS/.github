@@ -1,6 +1,7 @@
+
 <!-- HEADER START -->
 <h1 align="center" style="margin: 0; line-height: 1.25em">
-  <img src="../assets/logo/discobats_logo_square_icon.png" width="192" alt="DISCO-BATS Project Logo"/>
+  <img src="assets/logo/discobats_logo_square_icon.png" width="192" alt="DISCO-BATS Project Logo"/>
   <p style="margin: 0">
     DisCo-BaTS
   </p>
@@ -12,22 +13,22 @@
 </h2>
 
 <p align="center" style="margin-bottom: 0">
-  <a href="https://opensource.org/license/lgpl-3-0" style="display: inline-block">
-    <img alt="License" src="https://img.shields.io/badge/license-lgpl--3.0-success?style=for-the-badge" style="position: relative;display: block;"/>
+  <a href="https://opensource.org/license/lgpl-3-0">
+    <img alt="License" src="https://img.shields.io/badge/license-lgpl--3.0-success?style=for-the-badge"/>
   </a>
-  <a href="https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html" style="display: inline-block">
-    <img alt="Build Status" src="https://img.shields.io/badge/Java%20version-21-F58219?logo=java&style=for-the-badge" style="position: relative;display: block;"/>
+  <a href="https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html">
+    <img alt="Build Status" src="https://img.shields.io/badge/Java%20version-21-F58219?logo=java&style=for-the-badge"/>
   </a>
 </p>
 <p align="center" style="margin: 0">
-  <a href="https://www.docker.com/" style="display: inline-block">
-    <img alt="Build Status" src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" style="position: relative;display: block;"/>
+  <a href="https://www.docker.com/" style="line-height: 0.25em">
+    <img alt="Build Status" src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white"/>
   </a>
-  <a href="https://maven.apache.org/" style="display: inline-block">
-    <img alt="API" src="https://img.shields.io/badge/Apache%20Maven-003063?style=for-the-badge&logo=Apache%20Maven&logoColor=white.svg" style="position: relative;display: block;"/>
+  <a href="https://maven.apache.org/">
+    <img alt="API" src="https://img.shields.io/badge/Apache%20Maven-003063?style=for-the-badge&logo=Apache%20Maven&logoColor=white.svg"/>
   </a>
-  <a href="https://www.jetbrains.com/idea/" style="display: inline-block">
-    <img alt="Build Status" src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge&color=5F2395" style="position: relative;display: block;"/>
+  <a href="https://www.jetbrains.com/idea/">
+    <img alt="Build Status" src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge&color=5F2395"/>
   </a>
 </p>
 
@@ -53,31 +54,30 @@
   - [**meta**](https://link-url-here.org)
     - [metamodel](https://link-url-here.org)
     - [annotation](https://link-url-here.org)
-  - [**build**](https://link-url-here.org)
-    - [_plugins_](https://link-url-here.org)
-      - [_maven-plugins_](https://link-url-here.org)
-        - [mvn-jaxb-index-builder](https://link-url-here.org)
   - [**application**](https://link-url-here.org)
     - [core](https://link-url-here.org)
     - [root](https://link-url-here.org)
     - [remote](https://link-url-here.org)
     - [router](https://link-url-here.org)
-
+  - [**build**](https://link-url-here.org)
+      - [_plugins_](https://link-url-here.org)
+          - [_maven-plugins_](https://link-url-here.org)
+              - [mvn-jaxb-index-builder](https://link-url-here.org)
 
 - __EXAMPLES__
-    - [**models**](https://link-url-here.org)
-        - [metamodel](https://link-url-here.org)
+  - [**models**](https://link-url-here.org)
+  - [**testunits**](https://link-url-here.org)
 
 
 - __TOOLS__
-    - [**webview**](https://link-url-here.org)
-    - [**editor**](https://link-url-here.org)
+  - [**webview**](https://link-url-here.org)
+  - [**editor**](https://link-url-here.org)
 
 
-- __ASSETS__
-    - [**templates**](https://link-url-here.org)
-    - [**configs**](https://link-url-here.org)
-    - [**scenarios**](https://link-url-here.org)
+- __ADDITIONAL__
+  - [**templates**](https://link-url-here.org)
+  - [**assets**](https://link-url-here.org) (configs, scenarios, misc)
+
 
 ---
 
@@ -106,7 +106,7 @@ DisCo-BaTS or parts of it where used:
 ## Related Repositories
 
 [OpenLVC / poRTIco](https://github.com/openlvc/portico) is utilized as the implementation of the Runtime Infrastructure (RTI)
-according to the High Level Architecture (HLA) standard for distributed cooperative simulation coupling in the 
+according to the High Level Architecture (HLA) standard for distributed cooperative simulation coupling in the
 version of 2010 ([IEEE 1516:2010](https://standards.ieee.org/ieee/1516/3744/)). The version of poRTIco used is `2.1.3`.  
 PoRTIco is awesome - go support the maintainers! 💜
 
