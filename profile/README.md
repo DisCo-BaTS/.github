@@ -62,7 +62,7 @@
       - [_plugins_](https://github.com/DisCo-BaTS/build/tree/main/plugins)
           - [_maven-plugins_](https://github.com/DisCo-BaTS/build/tree/main/plugins/maven-plugins)
               - [mvn-jaxb-index-builder](https://github.com/DisCo-BaTS/build/tree/main/plugins/maven-plugins/mvn-jaxb-index-builder)
-
+  - [**util**](https://github.com/DisCo-BaTS/util)
 - __EXAMPLES__
   - [**models**](https://github.com/DisCo-BaTS/models)
   - [**testunits**](https://github.com/DisCo-BaTS/testunits)
