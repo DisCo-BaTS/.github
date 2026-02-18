@@ -81,16 +81,27 @@
 
 ---
 
+> [!IMPORTANT]  
+> This framework was developed as part of a doctoral thesis submitted on February 19, 2026, titled
+> _"Flexible Komponentenbasierte Modellierung und Simulation von Szenarien für die Verifizierung und Validierung
+> automatisierter maritimer Fahrsysteme"_ (eng.: _"Flexible component-based modeling and simulation of scenarios for the verification and validation of automated
+> maritime navigation systems."_).  
+> **Although a lot of work has been put into it, be aware that the software is still in a proof-of-concept stage** and you may find currently unused code that was once used to explore alternative solutions, undocumented parts, missing comments, and other imperfections.
+
+---
+
 ## Documentation
 For documentation check out the wiki pages and the READMEs located in the individual repositories.
-> Additionally, once the thesis in which DisCo-BaTS was developed has been successfully defended and published,
+> Additionally, once the dissertation in which DisCo-BaTS was developed has been successfully defended and published,
 > the URL to the corresponding publicly available PDF version will be added here.
+
 
 ## Attribution
 If you use the DisCo-BaTS modeling and simulation framework or parts of it for your own research,
 it would be appreciated if you would include the following reference in all published work for which
 DisCo-BaTS or parts of it where used:
-> A citable reference will be added here once the corresponding thesis has been successfully defended and published.
+> A citable reference will be added here once the corresponding dissertation has been successfully defended and published.
+
 
 ## Related Repositories
 
@@ -98,6 +109,7 @@ DisCo-BaTS or parts of it where used:
 according to the High Level Architecture (HLA) standard for distributed cooperative simulation coupling in the 
 version of 2010 ([IEEE 1516:2010](https://standards.ieee.org/ieee/1516/3744/)). The version of poRTIco used is `2.1.3`.  
 PoRTIco is awesome - go support the maintainers! 💜
+
 
 ## Contact
 
