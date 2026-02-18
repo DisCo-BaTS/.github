@@ -1,23 +1,6 @@
-<!--####################################################################################################
-  # This file is part of the Distributed Component-Based Traffic Simulation (DisCo-BaTS) project.      #
-  # Copyright (C) 2026 David Reiher <https://github.com/dvdrhr>                                        #
-  #                                                                                                    #
-  # This program is free software: you can redistribute it and/or modify it under the terms of the     #
-  # GNU Lesser General Public License version 3 as published by the Free Software Foundation           #
-  # This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;          #
-  # without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.          #
-  # See the GNU Lesser General Public License version 3 for more details.                              #
-  # You should have received a copy of the GNU Lesser General Public License along with this program.  #
-  # If not, see <https://www.gnu.org/licenses/lgpl+gpl-3.0.txt/>.                                      #
-  #                                                                                                    #
-  # Module: model                                                                                      #
-  # File: D:/Development/repos/disco-bats/main/environment/modules/model/pom.xml                       #
-  # Last Updated: 2026-02-17 20:24:29                                                                  #
-  ####################################################################################################-->
-
 <!-- HEADER START -->
 <h1 align="center" style="margin: 0; line-height: 1.25em">
-  <img src="assets/logo/discobats_logo_square_icon.png" width="192" alt="DISCO-BATS Project Logo"/>
+  <img src="../assets/logo/discobats_logo_square_icon.png" width="192" alt="DISCO-BATS Project Logo"/>
   <p style="margin: 0">
     DisCo-BaTS
   </p>
