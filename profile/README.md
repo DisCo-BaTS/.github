@@ -12,22 +12,22 @@
 </h2>
 
 <p align="center" style="margin-bottom: 0">
-  <a href="https://opensource.org/license/lgpl-3-0" style="color: transparent !important;">
-    <img alt="License" src="https://img.shields.io/badge/license-lgpl--3.0-success?style=for-the-badge"/>
+  <a href="https://opensource.org/license/lgpl-3-0" style="display: inline-block">
+    <img alt="License" src="https://img.shields.io/badge/license-lgpl--3.0-success?style=for-the-badge" style="position: relative;display: block;"/>
   </a>
-  <a href="https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html" style="color: transparent !important;">
-    <img alt="Build Status" src="https://img.shields.io/badge/Java%20version-21-F58219?logo=java&style=for-the-badge"/>
+  <a href="https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html" style="display: inline-block">
+    <img alt="Build Status" src="https://img.shields.io/badge/Java%20version-21-F58219?logo=java&style=for-the-badge" style="position: relative;display: block;"/>
   </a>
 </p>
 <p align="center" style="margin: 0">
-  <a href="https://www.docker.com/" style="color: transparent !important;">
-    <img alt="Build Status" src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white"/>
+  <a href="https://www.docker.com/" style="display: inline-block">
+    <img alt="Build Status" src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" style="position: relative;display: block;"/>
   </a>
-  <a href="https://maven.apache.org/" style="color: transparent !important;">
-    <img alt="API" src="https://img.shields.io/badge/Apache%20Maven-003063?style=for-the-badge&logo=Apache%20Maven&logoColor=white.svg"/>
+  <a href="https://maven.apache.org/" style="display: inline-block">
+    <img alt="API" src="https://img.shields.io/badge/Apache%20Maven-003063?style=for-the-badge&logo=Apache%20Maven&logoColor=white.svg" style="position: relative;display: block;"/>
   </a>
-  <a href="https://www.jetbrains.com/idea/" style="color: transparent !important;">
-    <img alt="Build Status" src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge&color=5F2395"/>
+  <a href="https://www.jetbrains.com/idea/" style="display: inline-block">
+    <img alt="Build Status" src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge&color=5F2395" style="position: relative;display: block;"/>
   </a>
 </p>
 
