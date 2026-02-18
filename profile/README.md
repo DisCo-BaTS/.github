@@ -83,14 +83,14 @@
 
 ## Documentation
 For documentation check out the wiki pages and the READMEs located in the individual repositories.
-> Additionally, once the dissertation in which DisCo-BaTS was developed has been successfully defended and published,
+> Additionally, once the thesis in which DisCo-BaTS was developed has been successfully defended and published,
 > the URL to the corresponding publicly available PDF version will be added here.
 
 ## Attribution
 If you use the DisCo-BaTS modeling and simulation framework or parts of it for your own research,
 it would be appreciated if you would include the following reference in all published work for which
 DisCo-BaTS or parts of it where used:
-> A citable reference will be added here once the corresponding dissertation has been successfully defended and published.
+> A citable reference will be added here once the corresponding thesis has been successfully defended and published.
 
 ## Related Repositories
 
