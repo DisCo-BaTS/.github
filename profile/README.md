@@ -76,7 +76,6 @@
   - [**templates**](https://github.com/DisCo-BaTS/templates)
   - [**assets**](https://github.com/DisCo-BaTS/assets) (configs, scenarios, misc)
 
-
 ---
 
 > [!IMPORTANT]  
@@ -88,17 +87,49 @@
 
 ---
 
+## Build Order
+__Simulation Application__
+1. util
+2. build
+3. meta
+4. simulation
+     
+__Models and Libraries__
+1. util
+2. build
+3. meta
+4. models
+
+## Prerequisites
+
+__Building Models / Libraries / Simulation__
+* JDK >= 21
+* Maven >= 3.9.9
+
+__Running the Simulation__
+* JDK / JRE >= 21 
+
+__Distributed simulation runs__
+* Docker has to be installed on the host system that runs the 'root' simulation (for building and pushing the image)
+* Docker has to be installed on the remote system that runs the 'remote' simulation (for pulling and running the image)
+* an instance of the poRTIco WAN-Router has to run somewhere where it can be reached by all simulation participants (HLA calls them federates). A ready-to-use, directly executable Docker image that starts a WAN router and can be accessed via port 23114 of the executing system / 0.0.0.0 / localhost is publicly available here: <https://hub.docker.com/repository/docker/dvdrhr/discobats/tags/wan_router/>
+* the RTI.rid files must be adjusted accordingly (wan = true/false, wan router ip, wan router port)
+
+---
+
 ## Documentation
+
 For documentation check out [the wiki pages](https://github.com/DisCo-BaTS/.github/wiki/DisCo%E2%80%90BaTS-%E2%80%90-Wiki-%E2%80%90-Home) and the READMEs located in the individual repositories.
-> Additionally, once the dissertation in which DisCo-BaTS was developed has been successfully defended and published,
+> Additionally, once the thesis in which DisCo-BaTS was developed has been successfully defended and published,
 > the URL to the corresponding publicly available PDF version will be added here.
 
 
 ## Attribution
+
 If you use the DisCo-BaTS modeling and simulation framework or parts of it for your own research,
 it would be appreciated if you would include the following reference in all published work for which
 DisCo-BaTS or parts of it where used:
-> A citable reference will be added here once the corresponding dissertation has been successfully defended and published.
+> A citable reference will be added here once the corresponding thesis has been successfully defended and published.
 
 
 ## Related Repositories
